@@ -74,7 +74,6 @@
 ||push-route-test.nubia.com^
 ||push-route.nubia.com^
 ##ะกรื
-||10.38.162.35^
 ||xmlpull.org^
 ||xmpush.xiaomi.com^
 ||resolver.msg.xiaomi.net^
@@ -31032,7 +31031,6 @@
 ||tushwjp.icu^
 ||17co2k5a.de^
 ||88dgn.top^
-||ftwo-receiver.autohome.com.cn^
 ||wyoaij.icu^
 ||hk2sch130021437.wns.windows.com^
 ||sanalytics.warnertv.pl^
